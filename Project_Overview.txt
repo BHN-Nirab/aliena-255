@@ -1,0 +1,88 @@
+Motivation
+
+Many people have interest in space. They want to explore the space , visit it. But space traveling is not
+easy and expensive also. As a result, many people loss their interest about space. Besides often people
+don't find interest in reading large documents and stay deprived from a huge domain of knowledge about
+space . So in the above situation, using NASA's vast resources we have created such an app which will
+solve these problems.
+
+Solution
+
+Aliena 255 will use virtual reality where one will be able to explore, land, customize planets of the solar
+system. We have developed 3D models of different elements of the solar system which inlcudes planets,
+stars, asteroids. For this purpose we have used the data provided by NASA.
+Overview Of APP
+After starting the app the user will find himself on earth and more specifically in BANGLADESH.
+Our robo-assistant Aliena will guide the user. The user will have to find his/her rocket which will
+take him to the space. Now , after reaching the space he/she will be able to visit different planets
+of solar system and he/she will be able to land on Earth and Mars.
+
+How we are going to enhance knowledge?
+
+Going near to a planet if the user focuses on that particular planet then all informations
+of that planet such as radius, average temperature, velocity, distance from the sun etc will be
+visible to the user. The users can change any of these attributes and inspect the changes of
+other attributes for this change. Now, this will give clear knowledge to the users about the
+characteristics of that planet and also the relation between the attributes.
+Interaction
+All controls will be to the user. Through motion controlling system the user can move his
+own control and also various other aspects as well.
+Now, for all this the user will just need a simple VR box. Thus ALIENA 255 will make you feel how it is
+like in space.
+
+Main features of ALIENA 255
+
+=> Real life touch in Virtual Reality
+=> Exploring planets of solar system
+=> Landing on Mars and Earth
+=> Planet customization
+
+Development Phase
+
+=> First the idea was chosen and our work domain was fixed
+=> Data collection from different resources, mainly from NASA open data.
+=> Analysing the data we developed the 3D models and implemented the whole project
+through unity 3D game engine. All the scripts were written in c# programming language.
+=>Further, testing was done using VR Z4 virtual reality glass. This device is chosen because of
+its low cost.
+
+NASA's Resources:
+
+=> https://mars.jpl.NASA.gov/gallery/atlas/olympus-mons.html?
+fbclid=IwAR1ZK0oxRBvjUjaECVSWjfZUcYZCu9oJ3DteDaqqc3tYXPENFcZRlS_Yr1M
+
+For a Planet's short Description we use following link:
+
+Mercury : https://spaceplace.NASA.gov/all-about-mercury/en/
+Venus : https://spaceplace.NASA.gov/all-about-venus/en/
+Earth : https://spaceplace.NASA.gov/all-about-earth/en/
+Mars : https://spaceplace.NASA.gov/all-about-mars/en/
+Jupiter : https://spaceplace.NASA.gov/all-about-jupiter/en/
+Saturn : https://spaceplace.NASA.gov/all-about-saturn/en/
+Uranus : https://spaceplace.NASA.gov/all-about-uranus/en/
+Neptune : https://spaceplace.NASA.gov/all-about-neptune/en/
+
+Other Additional link for Data Collections :
+
+Planetary Attribute : https://nssdc.gsfc.NASA.gov/planetary/factsheet/?
+fbclid=IwAR2IB1_RsB10Psk_XBJCvjIj-pEf4fx5A79pz01tluGywJ1mnnYCKjYPRlM
+Realization in other Worlds : https://www.exploratorium.edu/ronh/weight/index.html?
+fbclid=IwAR3A7IuBvkikN_W_DYMdPgO8eGHLdENeHy0UqX01tXlBi6v2BR-RK2tib8A
+
+Object by size : https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size?
+fbclid=IwAR0SKlS6HIdqYyODTygcu0u2DcOO_NSBuNbH7oZjh5_P_9Ak7kKFkiK5_40
+
+Tools & Technologies:
+
+1. Virtual Reality
+2. Unity 3D
+3. C# programming Language
+4. Adobe Premier Pro
+5. Adobe After Effects
+6. Adobe Photoshop
+7. Blender
+8. VR Z4 virtual reality Glass
+9. Google Translator for voice command
+
+github link:
+https://github.com/BHN-Nirab/aliena-255
