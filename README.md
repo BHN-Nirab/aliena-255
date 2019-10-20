@@ -9,3 +9,6 @@ https://drive.google.com/open?id=1tuKNdTRRTv1dnqQoBAkrUDwCTBkdUbou
 
 ## Youtube link of 30 seconds video 
 https://www.youtube.com/watch?v=eGPKs8mFKO8
+
+All the scripts have been uploaded in github and the whole unity project and other assets have been uploaded in Google drive and the link has been shared here.
+Thank you.
