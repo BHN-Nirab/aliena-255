@@ -1,5 +1,7 @@
 # ALIENA-255
 
+[![ALIENA-255](https://summerfrost-studios.com/img/summer-frost/portfolio/game-development/aliena255-portfolio.webp "ALIENA-255")](http://https://summerfrost-studios.com/img/summer-frost/portfolio/game-development/aliena255-portfolio.webp "ALIENA-255")
+
 In this Solar System there are many planets and once in your lifetime, you may dream to visit one of these planets.
 
 Aliena-255 is here to fulfill  the dream of yours.
@@ -17,10 +19,16 @@ And finally, Presenting ALIENA-255 !
 
 Please enjoy my project and leave your valuable suggestion to improve it.
 
-Game Design and Developing: Billal Hosain Nirab [IITDU, batch -10]
-Script Writing: Jawadul Hasan Saad [EEEDU, batch - 52]
-Implementation of Planets attribute controller: Ibrahim Khalil [IITDU, batch - 10]
-Collecting data from NASA's open data: Radowan Redoy, Abdullah Al Jahid, Mehedi Hasan Sun [IITDU, batch - 10]
+------------
+
+
+> - Game Design and Developing: Billal Hosain Nirab [IITDU, batch -10]
+- Script Writing: Jawadul Hasan Saad [EEEDU, batch - 52]
+- Implementation of Planets attribute controller: Ibrahim Khalil [IITDU, batch - 10]
+- Collecting data from NASA's open data: Radowan Redoy, Abdullah Al Jahid, Mehedi Hasan Sun [IITDU, batch - 10]
+
+------------
+
 
 ## Game Trailer
 https://www.youtube.com/watch?v=r4q-7jUYVRI
@@ -30,3 +38,5 @@ https://www.youtube.com/watch?v=3azg-IBhuMA
 https://drive.google.com/open?id=1LCzb0nMn193is3GDUxCe-gOnbeEDWle5
 ## Unity Project Download link
 https://drive.google.com/open?id=1xjmaZHr0wV8t0p7sIeH9htiv6TZhhips
+
+
