@@ -21,7 +21,7 @@ Please enjoy my project and leave your valuable suggestion to improve it.
 
 ------------
 
-> - Game Design and Developing: Billal Hosain Nirab [IITDU, batch -10]
+> - Game Design and Development: Billal Hosain Nirab [IITDU, batch -10]
 > - Script Writing: Jawadul Hasan Saad [EEEDU, batch - 52]
 > - Implementation of Planets attribute controller: Ibrahim Khalil [IITDU, batch - 10]
 > - Collecting data from NASA's open data: Radowan Redoy, Abdullah Al Jahid, Mehedi Hasan Sun [IITDU, batch - 10]
